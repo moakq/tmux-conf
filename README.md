@@ -1,5 +1,5 @@
 # tmux-conf
-My Tmux configuration file with love.
+My tmux configuration file with love.
 
 ## Screenshot
 
